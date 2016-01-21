@@ -1,0 +1,23 @@
+---
+---
+References
+==========
+@MastersThesis{MilushevMT,
+    author     =     {Dimiter Milushev},
+    title     =     {{Public Key Infrastructure for Wireless Systems}},
+    school     =     {Hamburg University of Technology},
+    address     =     {Hamburg, Germany},
+    year     =     {2007},
+    month		= {September}
+    }
+
+@unpublished{MilushevPW.
+	author = {Dimiter Milushev}
+	title = {Intrusion Detection and Prevention to
+Enhance Security in VoIP Environments}
+    school     =     {Hamburg University of Technology},
+    address     =     {Hamburg, Germany},
+    year     =     {2006},
+    month = {November}
+ }
+
