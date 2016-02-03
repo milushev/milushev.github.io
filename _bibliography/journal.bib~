@@ -3,10 +3,10 @@
 References
 ==========
 
-@unpublished{JR,
+@journal{JR,
   author = {Ates, Gamze and Raitano,Giuseppa and Van Bossuyt, Melissa and Vanparys, Philippe and Mertens, Birgit and Chesne, Christophe and Roncaglioni, Alessandra and Milushev, Dimiter and Benfenati, Emilio and Rogiers, Vera and Y. Doktorova, Tatyana},
   title = {In silico tools and transcriptomics analyses in the mutagenicity assessment of cosmetic ingredients: adding weight to the evidence?},
-  journal = {Submitted to Mutagenesis (under revision)},
+  journal = {Mutagenesis},
   year = {2015}
 }
 
